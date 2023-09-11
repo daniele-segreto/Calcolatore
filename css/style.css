@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.box {
+    width: 100%;
+    height: 100%;
+    border: 3px solid black;
+    box-shadow: 5px 10px #888888;
+}
+
+input {
+    font-size: 200px;
+    text-align: center;
+}
+
+input:focus {
+    background-color: rgb(244, 253, 186);
+}
+
+.tasto {
+    width: 100%;
+    height: 100px;
+    color: white;
+    background-color: rgb(225, 8, 8);
+    font-size: 40px;
+    box-shadow: 5px 10px #888888;
+}
